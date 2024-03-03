@@ -1,0 +1,3 @@
+aspid_op_neo_bundle.routes:
+  type: attribute
+  resource: '../src/Controller'

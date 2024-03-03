@@ -1,0 +1,1 @@
+# aspid-op/bundle-template-bundle
